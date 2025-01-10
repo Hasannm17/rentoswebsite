@@ -2,6 +2,7 @@
 dist/
 .output/
 .json/
+readme.md
 
 # dependencies
 node_modules/
