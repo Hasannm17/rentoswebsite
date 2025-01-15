@@ -317,3 +317,151 @@ If you selected a protection plan via the Services and your vehicle goes missing
 
 <span style="font-size: 30px; color: black;">Indemnification of host</span>  
 If you selected a protection plan via the Services, in the event of any claim for a loss or injury that occurs during the use of your vehicle by a guest (or by Rentos itself), subject to your compliance with these Terms and the Policies, Rentos or its insurers will defend and indemnify you, subject to any exclusions or limitations in the policy or policies of insurance contained with the protection plan, against such claims as required by applicable law. In connection with any indemnified claim, you are required to give Rentos or its insurers prompt written notice of the claim, allow Rentos sole control over the defense of the claim, and provide Rentos reasonable cooperation in its defense of the claim, at Rentos' expense. If Rentos or its insurers reimburse you for a lost or damaged vehicle and you later receive payment for some or all of your vehicle from a third party (e.g., a third-party insurance company or restitution), you must reimburse Rentos any monies received from that third party in an amount equivalent to, but not to exceed, the funds provided to you by Rentos.
+
+
+<span style="font-size: 30px; color: black;">Resolution of Disputes</span>   Dispute Resolution
+
+<span style="font-size: 30px; color: black;"> Dispute Resolution for Hosts and Guests</span>  
+
+**PLEASE READ THIS SECTION CAREFULLY. IT CONTAINS A MANDATORY ARBITRATION PROVISION AND THEREFORE AFFECTS YOUR RIGHTS AND GOVERNS HOW CLAIMS YOU AND RENTOS HAVE AGAINST EACH OTHER ARE RESOLVED.**
+
+Subject to applicable law, the Parties agree that any disputes or claims between us relating in any way to, or arising out of, this or previous versions of these Terms, your use of or access to the Services, or any breach, enforcement, or termination of the Agreement will be resolved in accordance with the provisions set forth in this Dispute resolution for hosts and guests.
+
+<span style="font-size: 30px; color: black;">Pre-Arbitration Dispute Resolution</span>   
+
+Should a dispute or claim arise between us, you and Rentos agree to notify the other Party of the nature of the dispute or claim prior to initiating arbitration, and the Parties will attempt to negotiate an informal resolution to it first. We will contact you at the email address you have provided to us; you can contact us by email at insert email here. Please provide your name, phone number, email, mailing address, and briefly describe both the nature of your dispute and the relief you would like from Rentos. If the Parties are unable to resolve the claims described in the notice within 30 days after the notice is sent, then the Party intending to pursue arbitration agrees to notify the other Party via email prior to initiating the arbitration. In order to initiate arbitration, a claim must be filed as appropriate. Any settlement offer made by you or Rentos shall not be disclosed to the arbitrator.
+
+<span style="font-size: 30px; color: black;">Agreement to Arbitrate</span>   
+
+The Parties each agree that any and all disputes, claims, or controversies that have arisen or may arise at any time between you and Rentos (including its respective subsidiaries, employees, officers, directors, agents, third-party insurance brokers or products, and third-party claims administrators) and/or any other Rentos user will be resolved by binding arbitration according to the procedure set forth below. For the purpose of this Agreement to Arbitrate, “disputes," "claims,” and "controversies" shall have the broadest possible meaning that will be enforced and includes, any and all disputes and/or claims that arise out of or in any way relate to your relationship with Rentos, including but not limited to: 
+1. your use of the Services, 
+2. the Agreement, these Terms and/or this Agreement to Arbitrate, including the interpretation, validity, enforceability, or scope of this Agreement to Arbitrate, or 
+3. your use of, or access to the Services, and anything sold, offered, or purchased through the Services (such as booking, listing, or sharing a vehicle). 
+
+Through this Agreement to Arbitrate, and subject to the below exceptions, the Parties intend to arbitrate all disputes or claims regardless of whether they are based in contract, statute, regulation, ordinance, tort (including, but not limited to, fraud, misrepresentation, fraudulent inducement, or negligence), or any other legal or equitable theory and regardless of whether they arose or accrued before the Parties entered into this Agreement to Arbitrate. For avoidance of doubt, the Parties expressly agree that this Agreement to Arbitrate encompasses all disputes or claims pertaining to the validity, enforceability, or scope of this Agreement to Arbitrate and any such disputes or claims will be referred to binding arbitration and will be resolved by the arbitrator and not a court as per the Lebanese Arbitration and Mediation Center (LAMC) Arbitration Rules.
+
+<span style="font-size: 30px; color: black;">Exceptions to Agreement to Arbitrate</span>   
+
+The only exceptions to this Agreement to Arbitrate are as follows:
+- **Disputes or claims that can be brought in small claims court**
+- **Injunctive or equitable relief** to prevent the actual or threatened infringement, misappropriation, or violation of a Party’s copyrights, trademarks, trade secrets, patents, or other intellectual property rights. However, the Parties agree that any court proceedings shall be stayed pending the final resolution in arbitration of any arbitrable claims or issues
+- **Any cause of action or claim for relief** which cannot be arbitrated as a matter of applicable statute or public policy. However, the Parties agree that any such court proceedings shall be stayed pending the final resolution in arbitration of any arbitrable claims or issues
+
+<span style="font-size: 30px; color: black;">Arbitration Procedures</span>   
+
+Arbitration is more informal than a lawsuit in court. Arbitration uses a neutral arbitrator instead of a judge or jury, and court review of an arbitration award is very limited. An arbitrator can award the same damages and relief on an individual basis that a court can award to an individual.
+
+In all cases in which a live hearing is requested or required, you and/or Rentos may attend by video or phone. To the extent a location must be established for the arbitration, it shall be held in the county in which you reside or at another mutually agreed location.
+
+The arbitrator will decide the substance of all claims in accordance with applicable law, including recognized principles of equity, and will honor all claims of privilege recognized by law. The arbitrator shall not be bound by rulings in prior arbitrations involving different users but is bound by rulings in prior arbitrations involving the same Rentos user to the extent required by applicable law. The arbitrator’s award shall be final and binding and judgment on the award rendered by the arbitrator may be entered in any court having jurisdiction thereof.
+
+Where permitted, the Parties agree that all communications, evidence, and rulings in the arbitration will remain confidential, except as reasonably necessary to enforce or implement such rulings or this Agreement to Arbitrate.
+
+<span style="font-size: 30px; color: black;">Costs of Arbitration</span>   
+
+If you initiate arbitration proceedings, you will be responsible for certain costs. Where the relief sought is $50,000 or less (not including attorney and administrative fees and expenses), you will be responsible for the initial filing fee, capped at $1,000, and Rentos will cover any additional fees or costs. Where the relief sought is $50,001 or more (not including attorney and administrative fees and expenses), you and Rentos will each pay your own arbitration fees consistent with the rules set by the LAMC at the time the claim was made, unless otherwise stated in these Terms.
+
+<span style="font-size: 30px; color: black;">Severability</span>   
+
+With the exception of the provisions in the below section **“Prohibition of class and representative actions and non-individualized relief,”** if an arbitrator or court decides that any part of the Agreement to Arbitrate is invalid or unenforceable, the other parts of the Agreement to Arbitrate shall still apply. If an arbitrator or court decides that any of the provisions in the section **“Prohibition of class and representative actions and non-individualized relief”** is invalid or unenforceable, then the entirety of the Agreement to Arbitrate shall be null and void. The remainder of the Agreement, these Terms, and dispute resolution section will continue to apply.
+
+<span style="font-size: 30px; color: black;">Right to Opt-Out of Arbitration; Procedure</span>   
+
+**IF YOU ARE A NEW TURO USER, YOU CAN CHOOSE TO OPT-OUT OF THE AGREEMENT TO ARBITRATE** BY EMAILING US AN OPT-OUT NOTICE ("OPT-OUT NOTICE"). THE OPT-OUT NOTICE MUST BE RECEIVED WITHIN 30 DAYS AFTER THE DATE YOU ACCEPT THESE TERMS FOR THE FIRST TIME OR BEFORE THE COMMENCEMENT OF YOUR FIRST TRIP ON TURO AS A GUEST OR HOST, WHICHEVER DATE IS EARLIEST. In order to opt-out, you must email your full name, address (including street address, city, state, and zip/postal code), and email address(es) associated with your Rentos Account. This procedure is the only way you can opt out of the Agreement to Arbitrate. If you opt out of the Agreement to Arbitrate, all other provisions of the Agreement will continue to apply to you, including the below forum selection clause.
+
+<span style="font-size: 30px; color: black;">Future Amendments to the Agreement to Arbitrate</span>   
+
+Notwithstanding any provision in these Terms to the contrary, the Parties agree that if Rentos makes any amendment to the Agreement to Arbitrate in the future, that amendment shall not apply to any claim that you filed against Rentos prior to the effective date of the amendment. The amendment shall apply to all other disputes or claims governed by the Agreement to Arbitrate that have arisen or may arise between the Parties. If you do not agree to the amended terms, you may close your account within 30 days of our posting or notification and you will not be bound by the amended terms; provided that the Parties will arbitrate any dispute in accordance with the provisions of the Agreement to Arbitrate as of the date you last accepted these Terms (or accepted any subsequent changes to these Terms). Once you have submitted a valid Opt-Out Notice to Rentos, you do NOT need to submit another one when these Terms are subsequently updated. Your first Opt-Out Notice will serve as a valid as to future versions of these Terms.
+
+<span style="font-size: 30px; color: black;">Judicial Forum for Legal Disputes Not Subject to Arbitration</span>   
+
+Unless the Parties agree otherwise, in the event that the Agreement to Arbitrate is found not to apply to you or to a particular claim or dispute, whether (1) as a result of your decision to opt out of the Agreement to Arbitrate, (2) as a result of a decision by the arbitrator or a court order, or (3) if one of the above exceptions to the Agreement to Arbitrate applies, you agree that any claim or dispute that has arisen or may arise between the Parties will be resolved exclusively by a state, federal, or small claims court.
+
+<span style="font-size: 30px; color: black;">Prohibition of Class and Representative Actions and Non-Individualized Relief</span>   
+
+**THE PARTIES AGREE THAT EACH OF US MAY BRING CLAIMS AGAINST THE OTHER ONLY ON AN INDIVIDUAL BASIS AND NOT AS A PLAINTIFF OR CLASS MEMBER IN ANY PURPORTED CLASS OR REPRESENTATIVE ACTION OR PROCEEDING, WHETHER IN COURT OR ARBITRATION.** UNLESS THE PARTIES AGREE OTHERWISE, THE COURT OR ARBITRATOR MAY NOT CONSOLIDATE OR JOIN MORE THAN ONE PERSON’S OR PARTY’S CLAIMS AND MAY NOT OTHERWISE PRESIDE OVER ANY FORM OF A CONSOLIDATED, REPRESENTATIVE, OR CLASS PROCEEDING. ALSO, THE COURT OR ARBITRATOR MAY AWARD RELIEF (INCLUDING MONETARY, INJUNCTIVE, AND DECLARATORY RELIEF) ONLY IN FAVOR OF THE INDIVIDUAL PARTY SEEKING RELIEF AND ONLY TO THE EXTENT NECESSARY TO PROVIDE RELIEF NECESSITATED BY THAT PARTY’S INDIVIDUAL CLAIM(S). ANY RELIEF AWARDED CANNOT AFFECT OTHER USERS, SUBJECT TO THE ABOVE EXCEPTION ALLOWING PUBLIC INJUNCTIVE RELIEF TO BE SOUGHT IN COURT BUT ONLY IF THAT EXCEPTION IS FOUND TO APPLY.
+
+<span style="font-size: 30px; color: black;">Dispute Resolution for Hosts and Guests Residing Outside Lebanon</span>   
+
+**PLEASE READ THIS SECTION CAREFULLY. IT AFFECTS YOUR RIGHTS AND WILL HAVE A SUBSTANTIAL IMPACT ON HOW CLAIMS THE PARTIES HAVE AGAINST EACH OTHER ARE RESOLVED.** Regardless of where you reside, if you bring an action against Rentos in Lebanon, the section above entitled **“Dispute resolution for hosts and guests”** will govern that dispute.
+
+<span style="font-size: 30px; color: black;">Resolution of Disputes</span>   
+
+If a dispute arises between the Parties, our goal is to provide you with a neutral and cost-effective means of resolving the dispute quickly. We encourage you to contact us directly to seek a resolution.. We will consider reasonable requests to resolve the dispute through alternative dispute resolution procedures, such as mediation or arbitration, as alternatives to litigation under the LAMC and laws of Lebanon. The laws of Lebanon shall govern these Terms and the Agreement and any dispute or claim you have against Rentos.
+
+
+<span style="font-size: 30px; color: black;"> General Provisions</span>  
+
+<span style="font-size: 30px; color: black;">Termination</span>    
+You may discontinue your use of the Services at any time and Rentos may terminate your access to the Services and remove any listings for any reason or no reason to the extent permissible under applicable law. Termination of access to the Services will not release a Party from any obligations it incurred prior to the termination and Rentos may retain and continue to use any information, including but not limited to photography, previously provided by you. Termination of the Agreement will not have any effect on the disclaimers, waiver or liability limitations, or legal disputes provisions under the Agreement and/or any fees due, and all of those terms will survive any termination of the Agreement.
+
+<span style="font-size: 30px; color: black;">No Vehicle Transfer or Assignment</span>    
+Except as otherwise provided herein, guests and hosts agree that nothing in these Terms constitutes an actual or purported transfer or assignment of any right or interest in a vehicle or optional Extras shared through the Services.
+
+<span style="font-size: 30px; color: black;">Disclaimers</span>    
+**RENTOS PROVIDES SERVICES THAT ENABLE THE SHARING OF VEHICLES AND OPTIONAL EXTRAS BETWEEN HOSTS AND GUESTS. EXCEPT AS OTHERWISE PROVIDED IN THESE TERMS, RENTOS DOES NOT ITSELF PROVIDE VEHICLE SHARING, RENTAL SERVICES, AND/OR INSURANCE SERVICES AND IS NOT RESPONSIBLE FOR ANY OF THE ACTS OR OMISSIONS OF ANY OF THE USERS OF ITS SERVICES, THE MANUFACTURER OF THE VEHICLE OR ANY OPTIONAL EXTRAS, OR ANY THIRD PARTY PROVIDER OF SERVICES (E.G. IN-VEHICLE GPS OR OTHER SYSTEMS).**  
+The Services are provided "as is", without warranty of any kind, either express or implied. To the extent permitted by applicable law, without limiting the foregoing, Rentos explicitly disclaims any warranties of merchantability, fitness for a particular purpose, quiet enjoyment, or non-infringement, and any warranties arising out of course of dealing or usage of trade. Rentos makes no warranty that the Services, including, but not limited to, the listing and/or any vehicle or optional Extra, will meet your requirements or be available on an uninterrupted, secure, or error-free basis. Rentos makes no warranty regarding the quality of any listings, vehicles, hosts, guests, Extras, the Services, or any content or the accuracy, timeliness, truthfulness, completeness, or reliability of any content obtained through the Services. No advice or information, whether oral or written, obtained from Rentos, or any of its service providers or through the Services or content, will create any warranty not expressly made herein.
+
+<span style="font-size: 30px; color: black;">Limitation of Liability and Waiver</span>    
+**EXCEPT WHERE PROHIBITED BY LAW, YOU WAIVE AND DISCHARGE ANY AND ALL RIGHTS YOU HAVE TO SUE OR MAKE CLAIMS AGAINST RENTOS AND ANY OF ITS SUBSIDIARIES, DIRECTORS, OFFICERS, AGENTS (INCLUDING THIRD-PARTY ADMINISTRATORS, INSURANCE PRODUCERS, AND INSURANCE PROVIDERS), OR EMPLOYEES (TOGETHER, THE “RENTOS PARTIES”) AND ANY RENTOS USER FOR ANY DAMAGES OR LOSSES, WHETHER DUE TO NEGLIGENCE OR OTHERWISE, ARISING OUT OF OR IN CONNECTION WITH THE FOLLOWING:**  
+1. Vehicle availability (e.g., a vehicle not being available or returned when it was supposed to be).  
+2. Problems with a vehicle (e.g., any malfunction of or deficiency with a vehicle).  
+3. Vehicle warranty issues (e.g., any breach of warranty or other obligation by any manufacturer or other third party associated with the vehicle).  
+4. The legal or license status of a vehicle, host, or guest.  
+5. Third-party assessments of a vehicle's value.  
+6. Any action or inaction of a host or guest.  
+
+**YOU AGREE THAT NEITHER RENTOS NOR ANY OTHER PARTY INVOLVED IN CREATING, PRODUCING, OR DELIVERING THE SERVICES WILL BE LIABLE FOR ANY INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES** (INCLUDING LOST PROFITS, DATA, OR GOODWILL, SERVICE INTERRUPTION, COMPUTER DAMAGE OR SYSTEM FAILURE, OR THE COST OF SUBSTITUTE PRODUCTS OR SERVICES), WHETHER BASED ON WARRANTY, CONTRACT, TORT (INCLUDING NEGLIGENCE), PRODUCT LIABILITY, OR ANY OTHER LEGAL THEORY, ARISING OUT OF OR CONNECTION WITH THE FOLLOWING:  
+1. The Agreement,  
+2. The Services (including listing or booking of any vehicle or optional Extra via the Services), or  
+3. Inability to use the Services.  
+
+Except for our obligations to pay amounts to applicable hosts or guests pursuant to these Terms, including an approved payment request or claim under a protection plan or applicable insurance policy, in no event will the Rentos Parties' aggregate liability arising out of or in connection with the Agreement or your use of the Services, exceed the greater of:  
+1. The amounts you have paid or owe for bookings via the Services as a guest in the twelve-month period prior to the event giving rise to the liability, or if you are a host, the amount earned by you in the 12-month period prior to the event giving rise to the liability, or  
+2. US$100.  
+
+**EXCEPT WHERE PROHIBITED BY LAW, YOU ALSO WAIVE AND DISCHARGE ANY AND ALL RIGHTS YOU HAVE TO SUE OR MAKE CLAIMS AGAINST ANY RENTOS USER FOR ANY DAMAGES OR LOSSES ARISING OUT OF OR IN CONNECTION WITH YOUR USE OF THE SERVICES.**
+
+**YOU WAIVE CIVIL CODE, OR ANY SIMILAR LAW, WHICH STATES:**  
+“A GENERAL RELEASE DOES NOT EXTEND TO CLAIMS WHICH THE CREDITOR DOES NOT KNOW OR SUSPECT TO EXIST IN HIS OR HER FAVOR AT THE TIME OF EXECUTING THE RELEASE, WHICH IF KNOWN BY HIM OR HER MUST HAVE MATERIALLY AFFECTED HIS OR HER SETTLEMENT WITH THE DEBTOR.”
+
+The above limitations of liability and waiver provisions are fundamental elements of the basis of the bargain between Rentos and you. They shall apply to the extent permitted by applicable law, and any aspects of them that are deemed void or unenforceable shall be severed while leaving the remainder in effect.
+
+<span style="font-size: 30px; color: black;">Indemnification</span>    
+You agree to release, defend, indemnify, and hold Rentos and its subsidiaries, officers, directors, employees, and agents, harmless from and against any claims, liabilities, damages, losses, and expenses, including, without limitation, reasonable legal and accounting fees, arising out of or in any way connected with:  
+1. Your access to or use of the Services,  
+2. Your violation of these Terms,  
+3. Your user content,  
+4. Your interaction with any other user of the Services, or  
+5. Your booking of a vehicle or creation of a listing for a vehicle.  
+
+Such indemnification includes but is not limited to any injuries, losses, or damages (compensatory, direct, incidental, consequential, or otherwise) arising in connection with or as a result of a booking, sharing, or use of a vehicle or optional Extra. This indemnification provision is a fundamental element of the basis of the bargain between Rentos and you. It shall apply to the extent permitted by applicable law, and any aspects of it that are deemed unenforceable shall be severed while leaving the remainder in effect.
+
+<span style="font-size: 30px; color: black;">Liquidated Damages</span>    
+You acknowledge that the actual damages likely to result from your breaches of the Agreement by any of the following are difficult to estimate accurately and would be difficult for Rentos to prove with certainty:  
+1. Engaging in gray market transactions, as defined in these Terms,  
+2. Using the Rentos domains, trademarks, or taglines without Rentos' express consent, including without limitation registering website domains or social media handles, or bidding on online advertising keywords,  
+3. Suing or asserting legal claims against the Rentos Parties or a Rentos user in any manner prohibited or waived herein,  
+4. As a host, sharing your vehicle via the Services with expired registration stickers or without current registration paperwork in the vehicle,  
+5. As a host, offering any vehicle that is the subject of a missing or stolen vehicle report,  
+6. As a host, offering any vehicle or releasing a vehicle to a guest that is not roadworthy or is otherwise in an unsafe condition,  
+7. As a host, cancel or modify a trip to manipulate the price or potential earnings for a vehicle, or  
+8. Creating or using a Rentos account that has the effect of circumventing Rentos' suspension, termination, or closure of another Rentos account.  
+
+**You will pay Rentos $5,500 per breach in Liquidated Damages** to compensate Rentos for any such conduct. This amount is not intended as a punishment for any such breach, but rather as a reasonable estimate where actual damages are difficult to estimate accurately and/or prove with certainty. This liquidated damages provision is a fundamental element of the basis of the bargain between Rentos and you. It shall apply to the extent permitted by applicable law, and any aspects of it that are deemed unenforceable shall be severed while leaving the remainder in effect.
+
+<span style="font-size: 30px; color: black;">Not a Rental Car Company; No Vehicle Leasing</span>    
+Rentos is not a rental car company. It does not own a fleet of vehicles and is not in the business of renting vehicles to the public. Rentos also is not providing short- or long-term vehicle leases. Rentos provides an online platform where vehicle owners and those in need of a vehicle can meet and share vehicles amongst themselves subject to these Terms.
+
+<span style="font-size: 30px; color: black;">Rounding off; Currency</span>    
+Rentos may, in its sole discretion, round up or down amounts that are payable from or to hosts or guests to the nearest whole functional base unit in which the currency is denominated (e.g. to the nearest dollar, euro, pound, or other supported currency) unless explicitly prohibited under applicable law. The currency displayed on the Services is based on the search location, vehicle location, and/or host location.
+
+<span style="font-size: 30px; color: black;">Translations</span>    
+Where Rentos has provided you with a translation of the English language version of these Terms or any Policies, in case of any wording discrepancies between the English and any other versions of the Terms and any Policies, the English language wording takes precedence. In France and if you are a consumer, the French language version will prevail.
+
+<span style="font-size: 30px; color: black;">Severability and Non-Waiver</span>    
+In the event any provision of these Terms is held to be void, voidable, or unenforceable, the remaining provisions shall remain in full force and effect. The failure of any Party to enforce any provision of these Terms shall not be construed to be a waiver of such provision, or any other provision, nor in any way to affect the validity of these Terms or any part of these Terms, or any right of any Party to enforce that provision or each and every other provision at any time. No waiver of any breach of these Terms shall constitute or be deemed a waiver of any other breach.
+
+<span style="font-size: 30px; color: black;">General</span>    
+Rentos does not appoint you or any other user as its employee, mandatory, legal agent, or form any kind of legal partnership or joint venture. You are not authorized to make any commitments on behalf of Rentos and Rentos will not make commitments on your behalf, except as contemplated by the Services or expressly stated in these Terms.  
+The Agreement, including these Terms, states the entire understanding between you and Rentos concerning your access to and use of the Services and supersedes any earlier verbal or written communications between us. With the exception of appointing a custodian to manage your vehicles on your behalf, you may not delegate your legal obligations or transfer any of your rights, in whole or in part, to any third party without advance written consent of Rentos. You will remain responsible for your obligations hereunder in any event. A Rentos director or officer must agree to any modification or waiver of any term of the Agreement in writing. Headings are for reference purposes only and do not limit the scope or extent of such section.
