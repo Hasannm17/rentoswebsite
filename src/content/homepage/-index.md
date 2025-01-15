@@ -4,7 +4,7 @@ banner:
   title: "Welcome To Rentos"
   content: ""
   image: "/images/banner.png"
-
+  
 
 
 # Features
