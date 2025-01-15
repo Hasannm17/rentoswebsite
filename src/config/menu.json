@@ -11,23 +11,7 @@
     {
       "name": "Contact",
       "url": "/contact"
-    },
-    {
-      "name": "Blog",
-      "url": "/blog"
-    },
-    {
-      "name": "Authors",
-      "url": "/authors"
-    },
-    {
-      "name": "Categories",
-      "url": "/categories"
-    },
-    {
-      "name": "Tags",
-      "url": "/tags"
-    }  
+    }
   ],
   "footer": [ 
     {
