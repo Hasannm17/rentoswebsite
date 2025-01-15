@@ -244,3 +244,54 @@ Rentos, a hired agent of Rentos, or the host may repossess any vehicle booked th
 <span style="font-size: 30px; color: black;">Missing Vehicles</span> 
 
 If a vehicle you have booked through the Services goes missing and/or is stolen during the reservation period (or extension period), you must immediately return the original ignition key to the host, file a police report immediately after discovering the vehicle is missing or stolen, but in no event more than **12 hours** after discovering it has gone missing, and cooperate fully with the host, law enforcement, Rentos, and other authorities in all matters related to the investigation.
+
+ 
+<span style="font-size: 36px; color: black;">Specific Terms for Hosts</span> 
+ 
+<span style="font-size: 30px; color: black;">Host commitments</span>
+
+As a host, you commit that you will provide a safe and legally registered and insured vehicle, with current license plates, with a clean (non-salvage/branded/written off) title, and in good mechanical condition. You will provide such vehicle on time but only to a guest who is listed on the Services as an Approved Driver for the trip. Other than what is required for you to verify a guest’s driver’s license, you will not collect any information or documentation from your guest at check-in, including guest personal auto insurance. You agree not to use any guest information made available to you by using the Services to collect additional personal data about guest(s), including but not limited to conducting background checks. You commit that your listings will be complete and accurate and you will honor all representations made in your listings, including honoring the price quoted to a guest. In the event of a vehicle swap, you will not require a guest to accept a higher priced vehicle or force an unwanted vehicle upgrade. You will not cancel a booking for the purpose of seeking a higher price from a guest. You will not offer any vehicle or optional Extra that you do not yourself own or have authority to share or that may not be shared for compensation pursuant to the terms and conditions of any agreement with a third party, including, but not limited to, a lease or financing agreement. If your vehicle is subject to a lease, loan, or other financing agreement, you must confirm sharing your vehicle on Rentos does not violate the terms of the contract with the lienholder. You will not offer any Extra that is not safe, clean, and acceptable for the use it is intended. You will not offer any vehicle that is the subject of a missing or stolen vehicle report. You will not offer any vehicle that is the subject of a safety recall without first properly addressing the matter subject to the recall. You will not offer a vehicle that is not roadworthy (i.e., not “street legal”) in the location where it is shared, and it will not have any illegal modifications to any part of the vehicle. You will remove any firearms or other weapons from your vehicle prior to providing it to a guest. You will repay loans related to your Rentos business on time and in full. When you direct Rentos to retrieve your account information from third parties, including but not limited to toll agencies, you grant Rentos a limited power of attorney to access the third-party services to retrieve such account information; Rentos will be acting as your agent and will not be acting on behalf of the third party.
+
+<span style="font-size: 30px; color: black;">Vehicle information given at listing; listing conditions</span> 
+
+When you sign up for Rentos, you will identify passenger vehicle(s) that you want to list for sharing through the Services. Each vehicle must meet the necessary requirements (e.g., vehicle age, maintenance, working odometer, title status, vehicle value, policy adherence, insurance requirements, etc.). You may only use the Services in connection with vehicles that you own or otherwise have all the necessary rights and permissions to share for compensation. If the vehicle you list on the Services is enabled with a device or OEM technology capable of determining the location of the vehicle, collecting telematics data, disabling technology, or image capturing you agree to comply with the requirements for tracking and technology devices and applicable law.
+
+<span style="font-size: 30px; color: black;">Listing only on the Services</span> 
+
+Any vehicle you list on the Services must be exclusively listed on the Services. You cannot list any vehicles you intend to share on the Services on any other car sharing marketplace. Failure to abide by this condition may result in fines, penalties, denial of physical damage claims, removal of the vehicle from the Services, account closure, or other action, in Rentos' sole discretion.
+
+<span style="font-size: 30px; color: black;">Vehicle availability</span> 
+
+Once a trip is booked, you must make the vehicle available or deliver the vehicle as expected by the guest. If you offer the guest the option to pick up your vehicle at a persistent specified location, you must supply the location of the vehicle accurately to Rentos and ensure that the vehicle is available at that location at the beginning of the reservation period.
+
+<span style="font-size: 30px; color: black;">License confirmation</span> 
+
+In order to qualify for available protection plans, you must verify that a prospective guest has a current, valid driver’s license before you provide the guest your vehicle, and ensure the driver’s license matches the name on the reservation and that the person picking up the vehicle appears to match the photograph on a facially valid driver’s license.
+
+<span style="font-size: 30px; color: black;">Pricing, earnings, and payments</span> 
+
+You will not have the ability to set, revise, or edit the vehicle’s pricing. Rentos will pay you the amount collected from guests that book your vehicle, less the applicable fees payable to Rentos. To the extent you owe Rentos or any third party lender money for any reason, Rentos also reserves the right to deduct those amounts from your earnings payment, debit your bank account, charge any of your payment methods on file, and/or send you an invoice.
+
+<span style="font-size: 30px; color: black;">Maintenance</span> 
+
+You are required to regularly check your vehicle for any defects in its operations or safety. You vow that, at all times, your vehicle will be in safe and roadworthy condition, in good mechanical condition, and in full compliance with all applicable inspection and registration requirements, including any required safety inspections. You will only list vehicles with a clean, non-salvaged, non-written off, non-washed, and non-branded title. You agree to respond to any applicable recall or similar safety notices and to complete any recommended action before allowing your vehicle to be booked. In addition, if Rentos believes that your vehicle does not conform to reasonable standards, Rentos may notify you and reserves the right to remove or decline listing your vehicle until its concerns have been resolved. Rentos may, but does not commit to, undertake efforts to ensure the safety of vehicles booked through the Services.
+
+<span style="font-size: 30px; color: black;">Insurance and protection plans</span> 
+
+Rentos is not an insurance company and does not insure hosts or guests. Host and guest protection plans made available through the Services are in no way related. To be eligible for the benefits of a protection plan, hosts and guests must comply with these Terms.
+
+
+<span style="font-size: 30px; color: black;">Hosting tools and teams</span> 
+ 
+
+<span style="font-size: 30px; color: black;">Obligations of hosts and Co-hosts</span> 
+ 
+You are responsible for your own acts or failures to act. To the maximum extent possible under applicable law, you are responsible for the acts and failures when providing your services on Rentos. You are responsible for complying with laws, rules, and regulations that apply to the hosting services. These may require you to obtain a permit or license before providing services. In no cases are hosts employees of Rentos. You represent and warrant that you and those who work with you have all necessary permits, licenses, and/or insurance required.
+
+<span style="font-size: 30px; color: black;">Relationship of hosts and Rentos</span> 
+ 
+Any agreement between a host and Rentos does not create an employment, agency, or other service relationship between Rentos and any host. A host cannot create an agreement that conflicts with the Agreement or expands Rentos' obligations or restricts Rentos' rights under the Agreement. Rentos has no control over your conduct and is not obligated to mediate disputes between hosts. Any liability arising from or related to any agreement or dispute between hosts and is disclaimed by Rentos to the maximum extent permitted by law.
+
+<span style="font-size: 30px; color: black;">Reporting vehicle damage</span> 
+ 
+If you did not decline a protection plan made available via the Services, and you believe that a guest has caused any damage to your vehicle, you are required to report that damage as soon as you become aware of it (and in any event, no more than 24 hours after the scheduled end of the trip) and to provide reasonable cooperation in the investigation of the damage so that it can be eligible for coverage. Based on the investigation, Rentos or third-party claims administrators will reasonably determine whether the damage occurred during the reservation period and is eligible for coverage. If it was, and you did not decline a protection plan made available via the Services, you will be reimbursed for the loss as described in the sections below. If Rentos is not given prompt notice as described in this paragraph, or if you do not provide reasonable cooperation in the investigation by Rentos or third-party claims administrators, we may not be able to determine the cause. In that case, you agree that we may decline any reimbursement or coverage for such damage.
