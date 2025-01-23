@@ -10,11 +10,11 @@ import { FaRegClock, FaRegFolder, FaRegUserCircle } from "react-icons/fa";
 import ImageMod from "./components/ImageMod.astro";
 import { render } from "astro:content";
 
-const COLLECTION_FOLDER = "blog";
+// const COLLECTION_FOLDER = "blog";
 const { post } = Astro.props;
 
-const posts = await getSinglePage(COLLECTION_FOLDER);
-const similarPosts = similarItems(post, posts);
+// const posts = await getSinglePage(COLLECTION_FOLDER);
+// const similarPosts = similarItems(post, posts);
 const { Content } = await render(post);
 const { title, description, author, categories, image, date, tags } = post.data;
 ---
@@ -99,7 +99,7 @@ const { title, description, author, categories, image, date, tags } = post.data;
     <!-- Related posts -->
     <div class="section pb-0">
       <h2 class="h3 mb-12 text-center">Related Posts</h2>
-      <div class="row justify-center">
+      <!-- <div class="row justify-center">
         {
           similarPosts.map((post) => (
             <div class="lg:col-4 md:col-6 mb-14">
@@ -107,7 +107,7 @@ const { title, description, author, categories, image, date, tags } = post.data;
             </div>
           ))
         }
-      </div>
+      </div> -->
     </div>
   </div>
 </section>
