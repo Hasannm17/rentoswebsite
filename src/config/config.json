@@ -23,7 +23,7 @@
 
   "params": {
     "contact_form_action": "#",
-    "copyright": "Designed And Developed by Hasan Naim (finova fintech)"
+    "copyright": "Designed And Developed by FinovaFintech"
   },
 
   "navigation_button": {
@@ -39,8 +39,8 @@
   },
 
   "metadata": {
-    "meta_author": "zeon.studio",
+    "meta_author": "Hasannm17",
     "meta_image": "/images/og-image.png",
-    "meta_description": "astro and tailwind boilerplate"
+    "meta_description": "rentos"
   }
 }
