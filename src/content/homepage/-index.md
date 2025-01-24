@@ -9,20 +9,18 @@ banner:
     label: "Get Started"
     link: "/signup"
 
-
-
 # Features
 features:
-  - title: "What's Included in Astroplate"
+  - title: "What Rentos Includes"
     image: "/images/sr1.jpg"
     content: "Astroplate is a comprehensive starter template that includes everything you need to get started with your Astro project. What's Included in Astroplate"
     bulletpoints:
-      - "10+ Pre-build pages"
-      - "95+ Google Pagespeed Score"
-      - "Build with Astro and TailwindCSS for easy and customizable styling"
-      - "Fully responsive on all devices"
-      - "SEO-optimized for better search engine rankings"
-      - "**Open-source and free** for personal and commercial use"
+      - "Convenience-driven car rentals"
+      - "Community engagement"
+      - "Accessible mobility for everyone"
+      - "Customizable experience"
+      - "Trust and security"
+      - "**Flexibility** and freedom"
     button:
       enable: false
       label: "Get Started Now"
@@ -32,22 +30,26 @@ features:
     image: "/images/sr2.jpg"
     content: "Astro is an all-in-one web framework for building fast, content-focused websites. It offers a range of exciting features for developers and website creators. Some of the key features are:"
     bulletpoints:
-      - "Zero JS, by default: No JavaScript runtime overhead to slow you down."
-      - "Customizable: Tailwind, MDX, and 100+ other integrations to choose from."
-      - "UI-agnostic: Supports React, Preact, Svelte, Vue, Solid, Lit and more."
+      - "User friendly experience"
+      - "Wide selection of vehicles"
+      - "Competitive pricing"
+      - "Real-time availability"
+      - "24/7 customer support"
+      - "Trust and transparency"
     button:
       enable: true
       label: "Get Started Now"
       link: "https://github.com/Hasannm17"
 
-  - title: "The Top Reasons to Choose Astro for Your Next Project"
+  - title: "Key Features of Rentos"
     image: "/images/sr3.jpg"
     content: "With Astro, you can build modern and content-focused websites without sacrificing performance or ease of use."
     bulletpoints:
-      - "Instantly load static sites for better user experience and SEO."
-      - "Intuitive syntax and support for popular frameworks make learning and using Astro a breeze."
-      - "Use any front-end library or framework, or build custom components, for any project size."
-      - "Built on cutting-edge technology to keep your projects up-to-date with the latest web standards."
+      - "Search and filter"
+      - "Car listings and booking systems"
+      - "User profiles, ratings, and reviews"
+      - "Payment integration, insurance, and support"
+      - "Geolocation features"
     button:
       enable: false
       label: ""
