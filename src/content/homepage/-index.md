@@ -13,7 +13,7 @@ banner:
 features:
   - title: "What Rentos Includes"
     image: "/images/sr1.jpg"
-    content: "Astroplate is a comprehensive starter template that includes everything you need to get started with your Astro project. What's Included in Astroplate"
+    content: ""
     bulletpoints:
       - "Convenience-driven car rentals"
       - "Community engagement"
@@ -28,7 +28,7 @@ features:
 
   - title: "Discover the Key Features Of Astro"
     image: "/images/sr2.jpg"
-    content: "Astro is an all-in-one web framework for building fast, content-focused websites. It offers a range of exciting features for developers and website creators. Some of the key features are:"
+    content: ""
     bulletpoints:
       - "User friendly experience"
       - "Wide selection of vehicles"
@@ -43,7 +43,7 @@ features:
 
   - title: "Key Features of Rentos"
     image: "/images/sr3.jpg"
-    content: "With Astro, you can build modern and content-focused websites without sacrificing performance or ease of use."
+    content: ""
     bulletpoints:
       - "Search and filter"
       - "Car listings and booking systems"
