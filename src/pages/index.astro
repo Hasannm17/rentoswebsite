@@ -12,7 +12,7 @@ import { FaCheck } from "react-icons/fa";
 interface Homepage {
   banner: {
     title: string;
-    
+    content:string;
   };
   features: Feature[];
 }
@@ -45,7 +45,10 @@ const { banner, features } = homepage.data as Homepage;
             set:html={markdownify(banner.title)}
             class="mb-4 text-h3 lg:text-h1"
           />
-        
+          <p
+          set:html={markdownify(banner.content)}
+          class="mb-4 text-h3 lg:text-sm"
+        />
         </div>
          
       </div>

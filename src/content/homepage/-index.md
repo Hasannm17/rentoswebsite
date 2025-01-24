@@ -2,7 +2,7 @@
 # Banner
 banner:
   title: "Welcome To Rentos"
-  content: ""
+  content: "Rentos is a cutting-edge mobile application tailored to revolutionize car renting for people all across Lebanon! Designed with convenience and efficiency in mind, Rentos connects users with a wide selection of vehicles, ranging from budget-friendly options to premium rides, ensuring a seamless rental experience for every need. With a user-friendly design, secure payments, and 24/7 support, Rentos is the ultimate solution for convenient and stress-free rentals."
   image: "/images/banner.png"
   button:
     enable: true
@@ -14,7 +14,7 @@ banner:
 # Features
 features:
   - title: "What's Included in Astroplate"
-    image: "/images/service-1.png"
+    image: "/images/sr1.jpg"
     content: "Astroplate is a comprehensive starter template that includes everything you need to get started with your Astro project. What's Included in Astroplate"
     bulletpoints:
       - "10+ Pre-build pages"
@@ -29,7 +29,7 @@ features:
       link: "#"
 
   - title: "Discover the Key Features Of Astro"
-    image: "/images/service-2.png"
+    image: "/images/sr2.jpg"
     content: "Astro is an all-in-one web framework for building fast, content-focused websites. It offers a range of exciting features for developers and website creators. Some of the key features are:"
     bulletpoints:
       - "Zero JS, by default: No JavaScript runtime overhead to slow you down."
@@ -38,10 +38,10 @@ features:
     button:
       enable: true
       label: "Get Started Now"
-      link: "https://github.com/zeon-studio/astroplate"
+      link: "https://github.com/Hasannm17"
 
   - title: "The Top Reasons to Choose Astro for Your Next Project"
-    image: "/images/service-3.png"
+    image: "/images/sr3.jpg"
     content: "With Astro, you can build modern and content-focused websites without sacrificing performance or ease of use."
     bulletpoints:
       - "Instantly load static sites for better user experience and SEO."
