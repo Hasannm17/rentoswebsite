@@ -4,7 +4,11 @@ banner:
   title: "Welcome To Rentos"
   content: ""
   image: "/images/banner.png"
-  
+  button:
+    enable: true
+    label: "Get Started"
+    link: "/signup"
+
 
 
 # Features
